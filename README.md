@@ -72,11 +72,13 @@ Customer Loyalty Programs: Incentivize repeat buyers to convert them into loyal 
 Review Discount Strategy: Optimize discount usage to balance sales growth and profit margins
 Product Positioning: Promote top-rated and best-selling products in marketing campaigns
 Targeted Marketing: Focus campaigns on high-revenue age groups and Express shipping users
+
 8. Key Learnings
 End-to-end data analysis workflow from raw data to business insights
 Practical application of Python for data cleaning and feature engineering
 Writing complex SQL queries for business analysis
 Building interactive dashboards using Power BI
+
 9.Author Deatils
 Pravesh Yadav |Aspiring Data Analyst|SQL|PYTHON |POWER BI
 
